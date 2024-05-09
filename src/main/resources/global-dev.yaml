@@ -1,0 +1,8 @@
+
+delta:
+  host: "anypoint.mulesoft.com"
+  port: "443"
+  basepath: "/mocking/api/v1/sources/exchange/assets/d1168588-9fe4-497f-9b2c-e2b1487fc3d5/united/1.0.2/m"
+  protocol: "HTTPS"
+  path: "/flightDeltaInfo"
+  
